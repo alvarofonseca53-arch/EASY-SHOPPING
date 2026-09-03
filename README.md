@@ -1,4 +1,4 @@
-<H1>Easy Shopping</H1>
+<H1>Easy Shopping <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6cd.png?v8" alt="Shopping" /></H1>
 <br>
 <br>
 <h2>Esse foi o projeto que eu criei no <a href="http://rodolfomori.com.br/devclub">DevClub</a></h2>
